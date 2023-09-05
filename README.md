@@ -24,7 +24,7 @@
 
   Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
 
-  <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+  <img align="right" alt="img" src="https://github.com/caoyanzhou/caoyanzhou/blob/%E2%9C%8D/cover_image.jpg" width="50%" height="auto" />
 
 
   #### 🌱 Things I am currently working on: 
