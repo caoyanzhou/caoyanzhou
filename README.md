@@ -23,14 +23,15 @@ Welcome to my Github page! I am Chinese, I am currently working to make money, a
   - If you listen to both, you will be able to move towards another developed country
 
   #### :computer: Programming languages and tools: 
-  <p>
-  	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=caoyanzhou&show_icons=true&hide_border=true" />
-
-
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code> 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   </p>
+
+  <p>
+  	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=caoyanzhou&show_icons=true&hide_border=true" />
+
+
 
   <sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
 
