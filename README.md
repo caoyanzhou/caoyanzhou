@@ -1,30 +1,14 @@
 # CaoYanZhou
-## _梵经檀影，诛欲叩心_
+### Hi there 👋 
+### This is Caoyanzhou!
 
-只因我自己生活的太过教条，所以格外欣赏自由野性的东西.
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/caoyanzhou)
+[![Linkedin](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/caoyanzhou)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cty1323204440@gmail.com)
 
-- 不知何谓完结，我们永远未完待续
+Welcome to my Github page! I am Chinese, I am currently working to make money, and I hope to achieve immortality in the online world!
 
-- 我没有背叛白银城
-
-- 又是一年冬
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caoyanzhou&show_icons=true&theme=tokyonight)
-
-  
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caoyanzhou)](https://github.com/anuraghazra/github-readme-stats)
-
-  ### Hi there 👋 
-  ### This is Caoyanzhou!
-
-  [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/caoyanzhou)
-  [![Linkedin](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/caoyanzhou)
-  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cty1323204440@gmail.com)
-
-  Welcome to my Github page! I am Chinese, I am currently working to make money, and I hope to achieve immortality in the online world!
-
-  <img align="right" alt="img" src="https://github.com/caoyanzhou/caoyanzhou/blob/%E2%9C%8D/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/caoyanzhou/caoyanzhou/blob/%E2%9C%8D/cover_image.jpg" width="50%" height="auto" />
 
 
   #### 🌱 Things I am currently working on: 
